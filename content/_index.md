@@ -25,7 +25,7 @@ recent_more_text = "more projects »"
 date_format = "%b %-d, %Y"
 +++
 
-![waving-hand](/waving-hand.gif) Hi I'm David,
+Hi I'm David,
 a computer engineer with a passion for all things tech. I specialize in embedded development and thrive in the fascinating world where software and hardware collide! 🚀
 
 **This website is a portfolio of my past and current personal projects. Enjoy ✨**
