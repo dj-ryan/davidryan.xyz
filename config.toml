@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://dj-ryan.github.io/davidryan.xyz/"
 
+# The title of the site
+title = "David Ryan Demo Site"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
