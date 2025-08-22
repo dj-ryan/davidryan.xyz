@@ -6,7 +6,8 @@
 #=========================================================================================
 
 # The URL the site will be built for
-base_url = "https://dj-ryan.github.io/davidryan.xyz/"
+# base_url = "https://dj-ryan.github.io/davidryan.xyz/"
+base_url = "https://www.davidryan.xyz"
 title = "David Ryan"
 description = "Computer engineer with a passion for all things tech. Portfolio of embedded development and space technology projects."
 default_language = "en"
