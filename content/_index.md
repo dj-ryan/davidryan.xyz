@@ -22,7 +22,7 @@ links = [
 recent = true
 recent_max = 5
 recent_more_text = "more projects »"
-date_format = "%b %-d, %Y"
+date_format = "%Y"
 +++
 
 Hi I'm David,
